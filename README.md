@@ -3,6 +3,6 @@
 # Filme văzute  
   https://www.imdb.com/list/ls541242717/?ref_=ext_shr_lnk
 # Muzică    
-  https://youtu.be/dvgZkm1xWPE?feature=shared
+   https://youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR&feature=shared
 # Cărți
   https://www.goodreads.com/review/list/179796172?page=1&view=covers
