@@ -9,3 +9,6 @@ https://open.spotify.com/playlist/554LPzkmPzzyR29RKu51hN?si=154oZnwzSaitiGljiyoN
 
 # Cărți
 https://www.goodreads.com/review/list/179796172?page=1&view=covers
+
+# Locuri vizitate
+https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared
