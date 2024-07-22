@@ -1,5 +1,8 @@
-# Seriale
-  https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk
+# Locuri vizitate
+https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared
+
+# Seriale    
+https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk
 # Filme
   https://www.imdb.com/list/ls541242717/?ref_=ext_shr_lnk
 # Muzică    
@@ -10,5 +13,4 @@ https://open.spotify.com/playlist/554LPzkmPzzyR29RKu51hN?si=154oZnwzSaitiGljiyoN
 # Cărți
 https://www.goodreads.com/review/list/179796172?page=1&view=covers
 
-# Locuri vizitate
-https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared
+
