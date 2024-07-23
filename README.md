@@ -5,7 +5,7 @@
 <details>  
    <summary style="margin-left: 30px;">4. Muzică</summary>
    <ul style="list-style-type: none;">
-      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR">Un simplu album pentru mașină</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR">Un simplu album</a></li>
       <li>Un simplu album pentru cântat</li>
       <li>Muzică populară</li>
       <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE">Colinde</a></li>
