@@ -2,8 +2,6 @@
 #### [1. Locuri vizitate](https://www.youtube.com/watch?v=k8cKfEwJkwU&list=PLiB2wyVH_iErGM54_LsFOYqr0NaAlC-6X)  
 #### [2. Seriale](https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk)
 #### [3. Filme](https://www.imdb.com/list/ls541242717/?ref_=ext_shr_lnk)
-
-#### 4. Muzică
 <details>
    <summary style="margin-left: 30px;">4. Muzică</summary>
    <ul style="list-style-type: none;">
@@ -13,10 +11,7 @@
       <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE">Colinde</a></li>
    </ul>
 </details>
-
-  
 #### [5. Podcasturi](https://www.youtube.com/playlist?list=PLiB2wyVH_iEr8RGiLsmgkoguIn_HWMuyD)  
-
 #### [6. Cărți](https://www.goodreads.com/review/list/179796172?page=1&view=covers)  
 
 
