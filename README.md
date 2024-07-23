@@ -5,7 +5,7 @@
 
 #### 4. Muzică
 <details>
-   <summary style="margin-left: 20px;"></summary>
+   <summary style="margin-left: 20px;">4. Muzică</summary>
    <ul style="list-style-type: none;">
       <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR">Un simplu album pentru mașină</a></li>
       <li>Un simplu album pentru cântat</li>
