@@ -1,5 +1,5 @@
 
-# [1. Locuri vizitate](https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared)
+# [1. Locuri vizitate](https://www.youtube.com/watch?v=k8cKfEwJkwU&list=PLiB2wyVH_iErGM54_LsFOYqr0NaAlC-6X)  
 # [2. Seriale](https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk)
 # [3. Filme](https://www.imdb.com/list/ls541242717/?ref_=ext_shr_lnk)
 
