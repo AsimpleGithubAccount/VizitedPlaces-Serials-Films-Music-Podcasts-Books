@@ -12,8 +12,8 @@
 
 
 <details closed>
-   <summary>Muzică</summary>
-  #### [Un simplu album pentru mașină](https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR)
+   # <summary>Muzică</summary>
+[Un simplu album pentru mașină](https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR)
 </details>
   
 # 5. Podcasturi
