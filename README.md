@@ -3,18 +3,17 @@
 #### [2. Seriale](https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk)
 #### [3. Filme](https://www.imdb.com/list/ls541242717/?ref_=ext_shr_lnk)
 
-#### 4. Muzică    
-   #### [Un simplu album pentru mașină](https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR)
-  ####       - Un simplu album pentru cântat
-  ####       - Muzică populară
-  ####       - Colinde
-  https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE  
-
-
-<details closed>
-   # <summary>Muzică</summary>
-[Un simplu album pentru mașină](https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR)
+#### 4. Muzică
+<details>
+   <summary style="margin-left: 20px;">Muzică</summary>
+   <ul style="list-style-type: none;">
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR">Un simplu album pentru mașină</a></li>
+      <li>Un simplu album pentru cântat</li>
+      <li>Muzică populară</li>
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE">Colinde</a></li>
+   </ul>
 </details>
+
   
 #### [5. Podcasturi](https://www.youtube.com/playlist?list=PLiB2wyVH_iEr8RGiLsmgkoguIn_HWMuyD)  
 
