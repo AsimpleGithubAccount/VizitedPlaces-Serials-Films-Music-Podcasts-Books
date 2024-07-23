@@ -9,7 +9,7 @@ https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk
    https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR
    https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE
 # Podcasturi
-https://open.spotify.com/playlist/554LPzkmPzzyR29RKu51hN?si=154oZnwzSaitiGljiyoNcg  
+  https://www.youtube.com/playlist?list=PLiB2wyVH_iEr8RGiLsmgkoguIn_HWMuyD  
 
 # Cărți
 https://www.goodreads.com/review/list/179796172?page=1&view=covers
