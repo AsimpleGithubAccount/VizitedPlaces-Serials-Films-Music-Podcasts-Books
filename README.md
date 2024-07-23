@@ -2,10 +2,8 @@
 # [1. Locuri vizitate](https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared)
 # [2. Seriale](https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk)
 # [3. Filme](https://www.imdb.com/list/ls541242717/?ref_=ext_shr_lnk)
- 
 # 4. Muzică    
-   ####      - Un simplu album pentru mașină
-  https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR  
+   #### [Un simplu album pentru mașină](https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR)
   ####       - Un simplu album pentru cântat
   ####       - Muzică populară
   ####       - Colinde
