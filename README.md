@@ -9,6 +9,11 @@
   ####       - Colinde
   https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE  
 
+
+<details open>
+  <summary>Click to reveal (already open)</summary>
+  Your visible content goes here.
+</details>
   
 # 5. Podcasturi
   https://www.youtube.com/playlist?list=PLiB2wyVH_iEr8RGiLsmgkoguIn_HWMuyD   
