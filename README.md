@@ -1,5 +1,5 @@
-# 1. Locuri vizitate
-[a link](https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared)
+
+[# 1. Locuri vizitate](https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared)
   https://rb.gy/svuhgg
 
 # 2. Seriale    
