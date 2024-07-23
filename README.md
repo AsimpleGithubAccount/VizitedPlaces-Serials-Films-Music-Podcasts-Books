@@ -1,5 +1,6 @@
 # 1. Locuri vizitate
 https://youtube.com/playlist?list=PLiB2wyVH_iEqD0WHr_dpveAA873cD3_HG&feature=shared
+https://rb.gy/svuhgg
 
 # 2. Seriale    
 https://www.imdb.com/list/ls541243395/?ref_=ext_shr_lnk
