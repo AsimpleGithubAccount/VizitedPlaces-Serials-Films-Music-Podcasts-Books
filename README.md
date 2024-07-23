@@ -10,8 +10,8 @@
   https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE  
 
 
-<details closed>
-  <summary>Muzică</summary>
+# <details closed>
+   <summary>Muzică</summary>
   #### [Un simplu album pentru mașină](https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR)
 </details>
   
