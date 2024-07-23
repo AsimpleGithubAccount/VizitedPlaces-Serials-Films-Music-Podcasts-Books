@@ -18,6 +18,6 @@
   
 #### [5. Podcasturi](https://www.youtube.com/playlist?list=PLiB2wyVH_iEr8RGiLsmgkoguIn_HWMuyD)  
 
-# [6. Cărți](https://www.goodreads.com/review/list/179796172?page=1&view=covers)  
+#### [6. Cărți](https://www.goodreads.com/review/list/179796172?page=1&view=covers)  
 
 
