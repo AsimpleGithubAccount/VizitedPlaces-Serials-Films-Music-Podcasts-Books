@@ -5,9 +5,11 @@
 <details>  
    <summary style="margin-left: 30px;">4. Muzică</summary>
    <ul style="list-style-type: none;">
-      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR">A simple playlist for car</a></li>
-      <li>Muzică populară</li>
-      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEqX6d86g8R7-J0lOm_DylfE">Colinde</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq02E4U-snsHLIjrBvlnIjR">Un simplu playlist pentru maşină</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEosCYhA4LS3gqa5_QxOM1ai">Un simplu playlist pentru cântat</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iErdK_h7DspS7bYWQ_7TN370">Muzică populară</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEpDKnc4aai5cv54haWXJxVO">Muzică românească - nostalgia</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq8cOg4lP8IKzLnAtMk3a_l">Muzică străină</a></li>
    </ul>
 </details>  
 
