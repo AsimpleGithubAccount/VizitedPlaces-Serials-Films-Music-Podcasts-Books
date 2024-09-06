@@ -15,7 +15,7 @@
 </details>  
 
 #### [5. Podcasturi](https://www.youtube.com/playlist?list=PLiB2wyVH_iEr8RGiLsmgkoguIn_HWMuyD)  
-#### [6. Cărți](https://www.goodreads.com/review/list/179796172-asimplereader?shelf=read)  
+#### [6. Cărți](https://www.goodreads.com/review/list/179796172?shelf=%23ALL%23)  
 
 
 
