@@ -10,6 +10,7 @@
       <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iErdK_h7DspS7bYWQ_7TN370">** Muzică populară</a></li>
       <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEpDKnc4aai5cv54haWXJxVO">** Muzică românească - nostalgia</a></li>
       <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iEq8cOg4lP8IKzLnAtMk3a_l">** Muzică străină</a></li>
+      <li><a href="https://www.youtube.com/watch?v=gMzBCdKYfCI&list=PLiB2wyVH_iEpB5xrUvmCxCwsGJR5RyNKb">** Muzică pentru dans</a></li>
       <li><a href="https://www.youtube.com/playlist?list=PLiB2wyVH_iErfeR4lz26gRVtrTsb2CB14">** Muzică simfonică</a></li>
    </ul>
 </details>  
